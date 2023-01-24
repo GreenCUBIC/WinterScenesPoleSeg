@@ -5,6 +5,8 @@ As an attempt to substantially automate the manual labour of critical electrical
 
 ## You can find the fine-tuned weights in the "weights" tag.
 
-### poles_hrnet_iqaluit: Pretrained HRNet with Cityscapes dataset further finetuned with 207 GSV images from the Iqaluit Region
-### poles_hrnet_iqaluit_southernontario: Pretrained HRNet with Cityscapes dataset & GSV images from Southern Ontario further finetuned with 207 GSV images from the Iqaluit Region
-### poles_hrnet_waterloo: Pretrained HRNet with Cityscapes dataset further finetuned with 208 LIDAR images from the Waterloo Region
+poles_hrnet_iqaluit: Pretrained HRNet with Cityscapes dataset further finetuned with 207 GSV images from the Iqaluit Region
+
+poles_hrnet_iqaluit_southernontario: Pretrained HRNet with Cityscapes dataset & GSV images from Southern Ontario further finetuned with 207 GSV images from the Iqaluit Region
+
+poles_hrnet_waterloo: Pretrained HRNet with Cityscapes dataset further finetuned with 208 LIDAR images from the Waterloo Region
